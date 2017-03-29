@@ -1,0 +1,360 @@
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower';
+@import 'https://fonts.googleapis.com/css?family=Play';
+@import 'https://fonts.googleapis.com/css?family=Rubik+One';
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+h2
+//GHOSTING COLOUR: #272b32
+{
+  color: White;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.motd-a:link {color: white; text-decoration: none;}
+.motd-a:visited {color: white; text-decoration: none;}
+.motd-a:hover {color: white; text-decoration: none;}
+.motd-a:active {color: white; text-decoration: none;}
+img[title^=":"]
+{
+  max-width: 24px;
+  max-height: 24px;
+} 
+img[title^=":link"]
+{
+  max-width: 60px;
+  max-height: 60px;
+} 
+.motdbutton {
+width: 160px; 
+background-color: #4CAF50; 
+padding: 10px 10px; 
+text-align: center;
+border-radius: 5px;
+}
+.imgHold {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.imgElem {
+  background-image: url("http://i.imgur.com/wGfyypB.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+#messagebuffer
+{
+ /*  background-color: black; */
+}
+.chat-msg-ElusiveTumblrDad {
+/*font-family: 'Play', sans-serif; */
+/*font-family: 'Indie Flower', cursive; */
+/*font-family: 'Rubik One', sans-serif; */
+/*font-family: 'Oswald', sans-serif; */
+  background-color: #add8e6;
+}
+.spoiler {
+  color: #191919;
+  background-color: #191919;
+}
+.linewrap {
+/*background-color: black;*/
+/*background-image: url("http://i.imgur.com/T3k1xOd.jpg"); */
+}
+.swear {
+  color: #f95537;
+}
+.username {
+/*  color: #272b32; */
+}
+.green {
+  color: #95e38d; 
+  }
+.blue {
+  color: #87f6ff;
+  }
+.red { 
+color: #e37272;
+}
+.chat-msg-tinselshow {
+  background-color: #6666ff;
+}
+.chat-msg-MorgynLeri {
+  background-color: #bb3232;
+}
+.chat-msg-NoxGold{
+  background-color: #BB8800;
+}
+.chat-msg-Sahoni{
+  background-color: #6ab6d4;
+}
+.chat-msg-Inay{
+  background-color: #2fbf47;
+}
+.chat-msg-Scrapdragon{
+  background-color: #008080;
+}
+.chat-msg-wanderingThyme{
+  background-color: #FFA500;
+}
+.chat-msg-DorianDangerfield{
+  background-color: #98a9fd;
+}
+.chat-msg-ssalogei {
+  background-color: #fb51e2;
+}
+.chat-msg-Pandoraylam {
+  background-color: #e55ea2; 
+}
+.chat-msg-bibliomom {
+  background-color: #bfdbf5;
+}
+.chat-msg-InThroughTheSunroof{
+  background-color: #bfd2c4;
+}
+.chat-msg-Lanibgoode {
+background-color: #6cab90;
+}
+.chat-msg-Ahzuri {
+  background-color: #008B8B;
+}
+.chat-msg-OrevD {
+  background-color: #6ea0f4;
+}
+.chat-msg-Deaalethiae {
+  background-color: #18f5c6;
+}
+.chat-msg-Eter {
+  background-color: #b4975a;
+}
+.chat-msg-Scuzz {
+ background-color: #a85dee;
+
+}
+.chat-msg-scuzzAirport {
+  background-color: #a85dee;
+}
+.chat-msg-Elerena {
+  background-color: #7FFFD4;
+}
+.chat-msg-Omskivar {
+  background-color: #93dfb3;
+}
+.chat-msg-hex {
+  background-color: #00a758;
+}
+.chat-msg-Glittercritter {
+  background-color: #6d96ee;
+}
+.chat-msg-OldWillyPete {
+  background-color: #f06cea;
+}
+.chat-msg-WolfsHeadWolfsHeart {
+  background-color: #d38df8;
+}
+.chat-msg-tan {
+  background-color: #F0D7B2;
+}
+.chat-msg-sugarragus {
+  background-color: #90e5a2;
+}
+.chat-msg-angelicxi {
+   background-color: #c092f0;
+}
+.chat-msg-tez{
+  background-color: #FFADAD;
+}
+.chat-msg-christinchen {
+  background-color: #0083d2;
+}
+.chat-msg-lokiagentofasgard {
+  background-color: #f4d678;
+}
+.chat-msg-Pompona {
+  background-color: #35987a;
+}
+.chat-msg-xenzen {
+  background-color: #ef4d3a;
+}
+.chat-msg-lanibgoode {
+  background-color: #bfd8c2;
+}
+.chat-msg-diloolie2 {
+  background-color: #c6ffb4;
+}
+.chat-msg-Orangensaft {
+  background-color: #e79f62;
+}
+.chat-msg-Alibun {
+  background-color: #8befc5;
+}
+.chat-msg-Siver {
+  background-color: #1dcbf0;
+}
+.chat-msg-Curlywench {
+background-color: #84ec50;
+}
+.chat-msg-radio-charlie {
+  background-color: #b7daff;
+}
+.chat-msg-EnbyTheWitch {
+  background-color: #ffcc00;
+}
+.chat-msg-Ashioxander {
+  background-color: #C069E8;
+}
+.chat-msg-N3ma1i {
+  background-color: #a85dee;
+}
+.chat-msg-masterread {
+  background-color: #7fc9ff;
+}
+.chat-msg-jacy {
+  background-color: #6aa1ff;
+}
+.chat-msg-foxy114 {
+  background-color: #66ccff;
+}
+.chat-msg-riverofwhispers {
+  background-color: #8085ff;
+}
+.chat-msg-dreamfluxx {
+  background-color: #a1e5fb;
+}
+.chat-msg-edgke{
+  background-color: #f9a82f;
+}
+.chat-msg-Jarin{
+  background-color: #e3a6ff;
+}
+.chat-msg-Peri-dot{
+  background-color: #83f2bd;
+}
+.chat-msg-Beewo{
+  background-color: #ff7d7d;
+}
+.chat-msg-TeapotDragon{
+  background-color: #b089fd;
+}
+.chat-msg-BirdMomRaven{
+  background-color: #1dcbf0;
+}
+.chat-msg-sugarsugar {
+  background-color: #f4d678;
+}
+.chat-msg-Peagravel {
+  background-color: #66ccff;
+}
+.chat-msg-ParallelPenguins {
+  background-color: #90e5a2;
+}
+.chat-msg-pplinwoodsnoises {
+background-color: #5f74f0;
+}
+.chat-msg-justameme {
+  background-color: #feff6e;
+}
+.chat-msg-torque {
+  background-color: #f279bc;
+}
+.chat-msg-onlyasmalllizard {
+  background-color: #54f267;
+}
+.chat-msg-lilyvonpseudonym {
+  background-color: #38b6d2;
+}
+.chat-msg-DracoNako {
+  background-color: #f44d4d;
+}
+.chat-msg-gigitastic {
+  background-color: #de5cf6;
+}
+.chat-msg-LaniBFreakingOut {
+  background-color: #bfd8c2;
+}
+.chat-msg-RedLeader {
+  background-color: #fd5252;
+}
+.chat-msg-otteroflore {
+  background-color: #97ffcd;
+}
+.chat-msg-Clegga {
+  background-color: #4ee553;
+}
+.chat-msg-Rusc {
+  background-color: #a6b9bf;
+}
+.chat-msg-pannee {
+  background-color: #f9b59e;
+}
+.chat-msg-sleepyheathen {
+  background-color: #9c7dff;
+}
+.chat-msg-Daelf{
+  background-color: #dd7dff;
+}
+.chat-msg-imjustlo {
+  background-color: #ff7d98;
+}
+.chat-msg-Lilai {
+  background-color: #99fd67;
+}
+.chat-msg-Quirky2 {
+  background-color: #488cff;
+}
+.chat-msg-StarlikeSilences {
+  background-color: #969cf2;
+}
+.chat-msg-winterpalace {
+  background-color: #00d2ff;
+}
+.chat-msg-ardentlyThieving {
+  background-color: #ffaaff;
+}
+.chat-msg-Ardently {
+  background-color: #ffaaff;
+}
+.chat-msg-Banditkitty {
+  background-color: #4ee05f;
+}
+.chat-msg-AliOnMobile {
+  background-color: #8befc5;
+}
+.chat-msg-CathyFowl {
+  background-color: #ADD8E6;
+}
+.chat-msg-Tweedpawn {
+  background-color: #0f98ab;
+}
+.chat-msg-Grantaire{
+  background-color: #84ec50;
+}
+.chat-msg-LeeshaJoy{
+  background-color: #66c358;
+}
+.chat-msg-SineWave{
+  background-color: #39c9bb;
+}
+.chat-msg-Quirky {
+  background-color: #67d967;
+}
+.chat-msg-BadTealeaves {
+background-color: #e35210;
+}
+.chat-msg-prismhues {
+background-color: #3f98cf;
+}
+.chat-msg-cmot{
+background-color: #7ae26f;
+}
+.chat-msg-HungryHungryHobbit{
+background-color: #7ae26f;
+}
+.chat-msg-freeky{
+background-color: #359c46;
+}
+.chat-msg-JannockJess {
+background-color: #ffb732;
+}
+.chat-msg-AnotherGayOrc {
+background-color: #6cB066;
+}
